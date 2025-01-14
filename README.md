@@ -40,4 +40,5 @@ The **Self-Driving Car** project is an advanced system that simulates autonomous
 - Integration of advanced machine learning models for predictive analysis.
 
 ## Demo
-[![Watch the demo]((https://github.com/Anurag990/SelfDrivingCar/blob/main/pbl_video.mp4))
+<video src="https://github.com/Anurag990/SelfDrivingCar/blob/main/pbl_video.mp4" controls="controls" style="max-width: 100%; height: auto;">
+</video>
